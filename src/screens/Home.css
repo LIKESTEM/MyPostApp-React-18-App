@@ -1,0 +1,17 @@
+.hero-section img {
+    max-height: 430px;
+}
+
+.mb-card-size-img {
+    height: 20rem;
+}
+
+@media(max-height: 650px) {
+    .hero-section img {
+        height: 20rem;
+    }
+
+    .mb-card-size-img {
+        height: 20rem;
+    }
+}
